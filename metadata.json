@@ -1,0 +1,6 @@
+{
+  "name": "SyncHire Precision Studio",
+  "description": "High-density talent orchestration, autonomous interview scheduling, and candidate pipeline triage engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
